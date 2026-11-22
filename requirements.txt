@@ -1,0 +1,13 @@
+
+pdfminer.six
+groq
+python-dotenv
+fastembed
+fastapi
+uvicorn
+trafilatura
+python-pptx
+python-docx
+openpyxl
+qdrant-client[fastembed]
+blake3

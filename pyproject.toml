@@ -1,0 +1,18 @@
+[project]
+name = "infrang2"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "blake3>=1.0.11",
+    "fastapi>=0.165.0",
+    "fastembed>=0.9.1",
+    "groq>=1.7.0",
+    "openpyxl>=3.1.5",
+    "pdfminer-six>=20260107",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.2.4",
+    "python-pptx>=1.0.2",
+    "qdrant-client[fastembed]>=1.20.0",
+    "trafilatura>=2.3.1",
+    "uvicorn>=0.54.0",
+]
